@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.card {
+    display: inline-block;
+    object-fit: contain;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+    position: relative;
+}
+
+.style {
+    position: absolute;
+}
+
+.bottomCardLine {
+    display: inline;
+    font-style: bold;
+    background-color: gainsboro;
+    position: fixed;
+    bottom: 45px;
+    left: 54px;
+}
+
